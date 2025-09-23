@@ -1,1 +1,4 @@
 data/
+# Ignore PyTorch checkpoints
+*.pt
+*.pth
